@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ankit8github
-- 👀 I’m interested: in buidling easy solutions to make other lazy
+- 👀 I’m interested: in buidling easy solutions to make other's lazy
 - 🌱 I’m currently learning: data science
 - 💞️ I’m looking to collaborate: in open source
 - ⚡ Fun fact: I hate programming
