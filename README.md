@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Ankit Hi 👋, I'm
-- 👀 I’m interested: in buidling easy solutions to make other's lazy
+- 👋 Hi, I’m Ankit Hi
+- 👀 I’m interested in building easy solutions to make others lazy
 - 🌱 I’m currently learning: AI Engineering 
-- 💞️ I’m looking to collaborate: in open source
+- 💞️ I’m looking to collaborate on open source
 - ⚡ Fun fact: I hate programming
 
 <!---
