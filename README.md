@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Ankit Hi
+- 👋 Hi, I’m Ankit 
 - 👀 I’m interested in building easy solutions to make others lazy
-- 🌱 I’m currently learning: AI Engineering 
+- 🌱 I’m currently learning: RAG System  
 - 💞️ I’m looking to collaborate on open source
 - ⚡ Fun fact: I hate programming
 
