@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Ankit
+- 👋 Hi, I’m Ankit Hi 👋, I'm
 - 👀 I’m interested: in buidling easy solutions to make other's lazy
-- 🌱 I’m currently learning: data science
+- 🌱 I’m currently learning: AI Engineering 
 - 💞️ I’m looking to collaborate: in open source
 - ⚡ Fun fact: I hate programming
 
