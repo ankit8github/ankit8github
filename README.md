@@ -1,10 +1,16 @@
-### Hi, I'm Ankit 👋
+Hi, I'm Ankit 👋
 
-AI Engineer focused on building LLM applications and ML systems end-to-end — 
-from retrieval architecture to containerized deployment.
+AI and Python backend engineer focused on building practical LLM applications, backend services, and end-to-end ML systems.
 
-- 🔭 Currently building: agentic AI systems with LangGraph & RAG pipelines
-- 🧠 Interested in: LLM integration, retrieval-augmented generation, production ML
-- 🌱 Learning: advanced agent orchestration & evaluation frameworks
-- 🤝 Open to: collaborating on open-source AI/ML projects
-- 📫 Reach me: ankit.kashyap0221@gmail.com · [LinkedIn](https://www.linkedin.com/in/ankitkashyap01/)
+- Focus: Python, FastAPI, retrieval-augmented generation, LangGraph, and deployment
+- Experience: AI Engineering Intern at QNu Labs
+- Open to: Early-career AI/ML and Python backend opportunities
+
+#### Featured projects
+
+- [TravelBuddy - AI Trip Planner](https://github.com/ankit8github/TravelBuddy) - Full-stack trip planner with deterministic-first planning, LangGraph, travel tools, PostgreSQL persistence, and automated tests.
+- [Telco Churn Predictor - ML Application](https://github.com/ankit8github/Telco-Churn-Prediction-Model) - XGBoost churn workflow exposed through FastAPI and Gradio, with Docker, MLflow, and Railway deployment.
+
+#### Connect
+
+[LinkedIn](https://www.linkedin.com/in/ankitkashyap01/) · [Email](mailto:ankit.kashyap0221@gmail.com)
